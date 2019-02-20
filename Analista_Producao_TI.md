@@ -1,4 +1,4 @@
-![](https://www.cvccorp.com.br/wp-content/themes/cvccorp/assets/imagens/cvccorp-logotipo.png)
+![](https://www.cvccorp.com.br/wp-content/themes/cvccorp/assets/imagens/cvccorp-logotipo-dark.png)
 
 # **Analista de Produção TI** 
 
